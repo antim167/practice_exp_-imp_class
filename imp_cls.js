@@ -15,6 +15,7 @@ let n = [
         }
     }
 ];
+//external object
 let obj = new A(n);
 let y=obj.getMyFun();
 let t=y[0].getname();

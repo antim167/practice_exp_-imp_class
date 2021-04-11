@@ -4,7 +4,7 @@ class MyClass{
     //1.property
     
      x=[];
-    //2.constructor
+    //2.constructo
       constructor(n){
 
         //the role of constructor is init. the property
